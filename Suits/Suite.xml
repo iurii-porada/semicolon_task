@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name ="Semicolon Task">
+    <test name = "Test 1">
+        <classes>
+            <class name="FirstTest"/>
+        </classes>
+    </test>
+    <test name = "Test 2">
+        <classes>
+            <class name="SecondTest"/>
+        </classes>
+    </test>
+    <test name = "Test 3">
+        <classes>
+            <class name="ThirdTest"/>
+        </classes>
+    </test>
+</suite>
